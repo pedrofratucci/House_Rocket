@@ -87,37 +87,54 @@ But, we won't go back to check these features outliers, because they won't affec
 
 ## Bivariate Analysis
 
-### Hypothesis 1: For all city regions, their house's average price has a minimum increase of 10% by increasing the house's Living Condition
+### Hypothesis 1:
 
 In process...
 
-### Hypothesis 2: There are more fraudulent transactions in total values through Transfer type
+### Hypothesis 2:
 
 In process...
 
-### Hypothesis 3: All transactions over $ 200,000.00 are fraudulents
+### Hypothesis 3:
 
 In process...
 
-### Hypothesis 4: Transactions with amount values level between $ 50,000.00 and 200,000.00 are more likely to be fraudulent than the others amount levels
+### Hypothesis 4:
 
 In process...
 
-### Hypothesis 5: Fraudulent transations happens more to Customer-Customer than Customer-Merchant relation
+### Hypothesis 5:
 
 In process...
 
-### Hypothesis 6: There is more chance of having a fraudulent transaction when the final origin's balance is zero
+### Hypothesis 6:
 
 In process...
 
-### Hypothesis 7: Fraudulent transactions tends to happen more on the weekends than workweek
+### Hypothesis 7:
 
 In process...
 
-### Hypothesis 8: Fraudulent transactions tends to happen more on the First month's Fortnight than the Second month's Fortnight
+### Hypothesis 8:
 
 In process...
+
+### Hypothesis 9:
+
+In process...
+
+### Hypothesis 10:
+
+In process...
+
+### Hypothesis 11:
+
+In process...
+
+### Hypothesis 12:
+
+In process...
+
 
 ## Multivariate Analysis
 
@@ -245,7 +262,6 @@ Because of the lack of information, I will assume some premisses for each scenar
 # Further Improvements
 
 - Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others
-<br>
 
 - Collect more data related to renovations cost, so I can simulate more precise business scenarios
 
