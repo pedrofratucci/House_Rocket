@@ -335,7 +335,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 ## Worst Scenario
 
 - For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
-- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% below their average prices, accordingly to their living condition level.
+- For this scenario, I will assume that we are going to buy the houses at their average price or lower, then sell them at 20% below their average prices, accordingly to their living condition level.
 
 **Expected profit: $ 7,841,484.51**
 <br>
@@ -344,7 +344,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 ## Best Scenario
 
 - For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
-- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% above their average prices, accordingly to their living condition level.
+- For this scenario, I will assume that we are going to buy the houses at their average price or lower, then sell them at 20% above their average prices, accordingly to their living condition level.
 
 **Expected profit: $ 25,992,176.27**
 <br>
