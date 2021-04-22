@@ -49,7 +49,7 @@ Create a exploratory data analysis through all the dataset available and manipul
 
 By using the latitude and longitudes available in the dataset we could split the regions like this:
 
-![region_split](https://user-images.githubusercontent.com/81817799/115722366-4d569680-a355-11eb-8afa-4eefd35491b6.png)
+<img src= "images/region_split.png" width= "500" height= "600"> 
 
 
 # Exploratory Data Analysis
