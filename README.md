@@ -257,7 +257,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 **Expected profit: $ 25,992,176.27**
 <br>
-**Expected ROI: 0.28%**
+**Expected ROI: 0.91%**
 
 # Further Improvements
 
