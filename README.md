@@ -282,7 +282,7 @@ For all city's regions, there is a pattern that by increasing the bathrooms quan
 
 If the company could calculate the renovations cost, and assuming that these renovations will cost less than the difference between the before and after renovation scenarios, the company should buy all houses mentioned previously, with prices on averange or lower.
 
-If the company could not calculate the renovations cost, the company should buy all houses mentioned previously, but only with prices below averange. I suggest buy houses in those living conditions with prices 20% below average, so we secure our chances of profit
+If the company could not calculate the renovations cost, the company should buy all houses mentioned previously, but only with prices below averange. I suggest buy houses in those living conditions with prices 20% below average, so we secure our chances of profit.
 
 - These renovations should have a cost lower than the difference between before and after living condition scenarios, so the company profit with it
 
@@ -306,7 +306,7 @@ Yes, it should. All suggestions are based on renovations, as previously mentione
 
 **Changing suggestions:**
 
-- Even though the **`living_condition`** feature has sometimes a negative and sometimes a weak correlation with the features that it supposed to have a strong correlation, such as **`bedrooms`**, **`bathrooms`**, **`floors`** and **`living_area`**, as shown in section 4.3, I will assume that these features have strong correlation
+- Even though the **`living_condition`** feature has sometimes a negative and sometimes a weak correlation with the features that it supposed to have a strong correlation, such as **`bedrooms`**, **`bathrooms`**, **`floors`** and **`living_area`**, as shown in section 4.3, I will assume that these features have strong correlation.
 
 - As shown in H8, by increasing the **`living_area`** the house's price will probably increases too. 
 - As shown in H7, by increasing the **`floors`** quantity the house's price will increases too. 
@@ -325,8 +325,8 @@ Because of the lack of information, I will assume some premisses for each scenar
     
 ## Expected Scenario
 
-- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
-- For this scenario, I will assume that we are going to buy the houses at their average price or lower, then sell them at their average prices, accordingly to their living condition level
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
+- For this scenario, I will assume that we are going to buy the houses at their average price or lower, then sell them at their average prices, accordingly to their living condition level.
 
 **Expected profit: $ 16,916,830.39**
 <br>
@@ -334,8 +334,8 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 ## Worst Scenario
 
-- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
-- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% below their average prices, accordingly to their living condition level
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
+- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% below their average prices, accordingly to their living condition level.
 
 **Expected profit: $ 7,841,484.51**
 <br>
@@ -343,8 +343,8 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 ## Best Scenario
 
-- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
-- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% above their average prices, accordingly to their living condition level
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
+- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% above their average prices, accordingly to their living condition level.
 
 **Expected profit: $ 25,992,176.27**
 <br>
