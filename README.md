@@ -50,7 +50,7 @@ Create a exploratory data analysis through all the dataset available and manipul
 
 By using the latitude and longitudes available in the dataset we could split the regions like this:
 
-<img src= "images/region_split.png" width= "500" height= "600"> 
+<img src= "images/region_split.png" width= "500" height= "600" align= "center"> 
 
 
 # Exploratory Data Analysis
