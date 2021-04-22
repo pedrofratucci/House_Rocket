@@ -56,7 +56,7 @@ Create an exploratory data analysis through all the dataset available, manipulat
 
 <img src= "images/mind_map.png"> 
 
-## City's region split
+# City's Region Split
 
 By using the latitudes and longitudes available in the dataset we could split the regions like this:
 
