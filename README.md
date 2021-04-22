@@ -352,7 +352,8 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 # Deploy 
 
-https://house-rocket-ph.herokuapp.com/
+All these analysis, with a dinamic interation, can be found here:
+ - https://house-rocket-ph.herokuapp.com/
 
 # Further Improvements
 
