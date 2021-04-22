@@ -116,10 +116,10 @@ But, we won't go back to check these features outliers, because they won't affec
 <img src= "storytelling/H2.png"> 
 
 - Southeast region do have the average house's price minimum increase of 10% for each construction design level upgrade. Also, it is the only region with low quality, when it comes about houses construction design. This because, proprably, its the poorest city's region.
-- North region do have the average house's price minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 115,92% raise
-- West region do have the average house's price minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 201,46% raise
-- Central region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 82,69% raise
-- Downtown region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 73,52% raise
+- North region do have the average house's price minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 115,92% raise.
+- West region do have the average house's price minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 201,46% raise.
+- Central region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 82,69% raise.
+- Downtown region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 73,52% raise.
 - 
 ### Hypothesis 3: For North, downtown and west regions, their houses are more likely to be sold during the spring than any other season
 
@@ -143,11 +143,11 @@ Both regions have the approximately the same pattern when we talk about houses s
 
 <img src= "storytelling/H5.png"> 
 
-- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
-- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
-- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
-- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
-- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
+- Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
+- North region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
+- West region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
+- Central region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
+- Downtown region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
 
 But, when analysing all city regions, its clearly visible that, when talking about average house's prices sold and not the amount of houses sold, April is the month that sells the expensive houses
 
@@ -157,11 +157,11 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 <img src= "storytelling/H6.png"> 
 
-- Southeast region don't have the average house's price minimium increase of 10% between the years. Also, the average houses price sold decreases between 2014 and 2015
-- North region do presents an average house's price minium increase between the years. The increase was 2,99%, nothing close to 10%
-- West region do presents an average house's price minium increase between the years. The increase was 4,24%, nothing close to 10%
-- Central region do presents an average house's price minium increase between the years. The increase was 2,77%, nothing close to 10%
-- Downtown region do presents an average house's price minium increase between the years. The increase was 2,00%, nothing close to 10%
+- Southeast region don't have the average house's price minimium increase of 10% between the years. Also, the average houses price sold decreases between 2014 and 2015.
+- North region do presents an average house's price minium increase between the years. The increase was 2,99%, nothing close to 10%.
+- West region do presents an average house's price minium increase between the years. The increase was 4,24%, nothing close to 10%.
+- Central region do presents an average house's price minium increase between the years. The increase was 2,77%, nothing close to 10%.
+- Downtown region do presents an average house's price minium increase between the years. The increase was 2,00%, nothing close to 10%.
 
 ### Hypothesis 7: For all city regions, their houses floor's number growth increases the house's price at a 20% minimum
 
@@ -169,11 +169,11 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 <img src= "storytelling/H7.png"> 
 
-- Southeast region do have the average house's price minimum increase of 20% when renovating its amount of floors. With a significant average house's price increase of 44,34% when upgrading from 1 to 2 floors
-- North region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences
-- West region do have the average house's price minimum increase of 20% when renovating its amount of floors. With a significant average house's price increase of 24,65% when upgrading from 1 to 2 floors
-- Central region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences
-- Downtown region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences. But, it has a significant average house's price increase of 25,32% when upgrading from 1 to 2 floors
+- Southeast region do have the average house's price minimum increase of 20% when renovating its amount of floors. With a significant average house's price increase of 44,34% when upgrading from 1 to 2 floors.
+- North region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences.
+- West region do have the average house's price minimum increase of 20% when renovating its amount of floors. With a significant average house's price increase of 24,65% when upgrading from 1 to 2 floors.
+- Central region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences.
+- Downtown region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences. But, it has a significant average house's price increase of 25,32% when upgrading from 1 to 2 floors.
 
 ### Hypothesis 8: For all city regions, the Living Area size growth is more likely to increase the house's prices
 
@@ -197,11 +197,11 @@ For all city's regions, there is no visible pattern of house's prices increase o
 
 <img src= "storytelling/H10.png"> 
 
-- There is no houses with water view in Downtown region
-- Southeast region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is no houses with living condition level less than 3 in Southeast region
-- North region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. The house's price tends to remain the same. Also, there is no houses with living condition level less than 3 in Southeast region
-- West region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is a house's price decrease pattern after a living condition level 3
-- Central region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. But its important to notice that there is a significant average house's price increase of 47,82% when upgrading it from living condition level 3 to 4
+- There is no houses with water view in Downtown region.
+- Southeast region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is no houses with living condition level less than 3 in Southeast region.
+- North region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. The house's price tends to remain the same. Also, there is no houses with living condition level less than 3 in Southeast region.
+- West region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is a house's price decrease pattern after a living condition level 3.
+- Central region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. But its important to notice that there is a significant average house's price increase of 47,82% when upgrading it from living condition level 3 to 4.
 
 ### Hypothesis 11: For all city regions, by increasing the bedrooms quantity its most likely to increases the house prices
 
@@ -211,11 +211,11 @@ For all city's regions, there is no visible pattern of house's prices increase o
 
 For all city's regions, there is a pattern that by increasing the bedrooms quantity its most likely that the house's price will increase too.
 
-- Southeast region respects this pattern in a range between 1 and 5 bedrooms
-- North region respects this pattern in a range between 1 and 5 bedrooms
-- West region respects this pattern in a range between 1 and 7 bedrooms
-- Central region respects this pattern in a range between 1 and 5 bedrooms
-- Downtown region respects this pattern in a range between 1 and 5 bedrooms
+- Southeast region respects this pattern in a range between 1 and 5 bedrooms.
+- North region respects this pattern in a range between 1 and 5 bedrooms.
+- West region respects this pattern in a range between 1 and 7 bedrooms.
+- Central region respects this pattern in a range between 1 and 5 bedrooms.
+- Downtown region respects this pattern in a range between 1 and 5 bedrooms.
 
 ### Hypothesis 12: For all city regions, by increasing the bathrooms quantity its most likely to increases the house prices
 
