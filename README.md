@@ -350,6 +350,10 @@ Because of the lack of information, I will assume some premisses for each scenar
 <br>
 **Expected ROI: 0.91%**
 
+# Insights Deploy 
+
+In process...
+
 # Further Improvements
 
 - Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others
