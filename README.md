@@ -213,23 +213,41 @@ And for houses with a significant **`living_area`** / **`land_area`** proportion
 
 # Business Simulation
 
-In process...
+Because of the lack of information, I will assume some premisses for each scenario simulation.
     
 ## Expected Scenario
 
-In process...
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
+- For this scenario, I will assume that we are going to buy the houses at their average price or lower, then sell them at their average prices, accordingly to their living condition level
+
+**Expected profit: $ 16,916,830.39**
+<br>
+**Expected ROI: 0.59%**
 
 ## Worst Scenario
 
-In process...
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
+- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% below their average prices, accordingly to their living condition level
+
+**Expected profit: $ 7,841,484.51**
+<br>
+**Expected ROI: 0.28%**
 
 ## Best Scenario
 
-In process...
+- For this scenario, I will assume that the renovation costs will be 30% of the bought house's price
+- For this scenario, I will assume that we are going to buy the houses at their average price then sell them at 20% above their average prices, accordingly to their living condition level
+
+**Expected profit: $ 25,992,176.27**
+<br>
+**Expected ROI: 0.28%**
 
 # Further Improvements
 
-In proces...
+- Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others
+<br>
+
+- Collect more data related to renovations cost, so I can simulate more precise business scenarios
 
 # References
 
