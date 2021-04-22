@@ -4,7 +4,17 @@
 
 # Business Problem
 
-In process...
+House Rocket is a digital platform whose business model is the purchase and sale of properties using technology.
+
+House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities.
+
+Its main strategy is to buy good houses in great locations with low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit and therefore the greater its revenue. However, houses have many attributes that make them more or less attractive to buyers and sellers, and the location and time of year can also influence prices.
+
+Therefore, the company's CEO asked for a scenarios business simulation and answers for the following questions:
+
+- Which houses should the company buy and at what price?
+- Once the house is in the company's possession, what is the best time to sell it and what would be the sale price?
+- Should the company make a renovation to increase the price of the sale? What would be the suggestions for changes?
 
 # Objective and Solution Proposal
 
@@ -349,7 +359,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 # References
 
 ## Business Problem Source
-- https://youtu.be/DSVQ3HcxEPw?t=871
+- https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/
 
 ## Data Source
 - https://www.kaggle.com/harlfoxem/housesalesprediction
