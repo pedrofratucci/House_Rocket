@@ -20,11 +20,11 @@ Therefore, the company's CEO asked for a scenarios business simulation and answe
 
 ### Objective
 
-Answer the House Rocket's CEO questions and create insights to discuss with the company business team and simulate business scenarios.
+Answer the House Rocket's CEO questions, create insights to discuss with the company business team and simulate business scenarios.
 
 ### Solution Proposal
 
-Create a exploratory data analysis through all the dataset available and manipulate the data to answer the CEO questions and simulation business scenarios.
+Create an exploratory data analysis through all the dataset available, manipulate the data to answer the CEO's questions and simulate business scenarios.
 
 
 # Dataset Summary
