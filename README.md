@@ -43,7 +43,8 @@ Create a exploratory data analysis through all the dataset available and manipul
 
 
 #  Mind Map Hypoteses
-![mind_map](https://user-images.githubusercontent.com/81817799/115720368-63fbee00-a353-11eb-8209-2c37cc8d145e.png)
+
+<img src= "images/mind_map.png"> 
 
 ## City's region split
 
@@ -58,7 +59,7 @@ By using the latitude and longitudes available in the dataset we could split the
 
 ### Categorical Features Distribution Analysis
 
-![cat_features_distribution](https://user-images.githubusercontent.com/81817799/115720865-d371dd80-a353-11eb-8b99-2f5e2e0f676c.png)
+<img src= "storytelling/cat_features_distribution.png"> 
 
 - The bedrooms quantity is concentrated between 1 and 6. Which the most common is houses with 3 bedrooms, followed by 4 and 2 
 - Talking about bathrooms, the most common is houses with 2.5 bathrooms, probably 2 bathrooms and a toilet (0.5)
@@ -77,7 +78,7 @@ By using the latitude and longitudes available in the dataset we could split the
 
 ### Numerical Features Distribution Analysis
 
-![num_features_distribution](https://user-images.githubusercontent.com/81817799/115720984-f56b6000-a353-11eb-87ea-e769ad5dc3c6.png)
+<img src= "storytelling/num_features_distribution.png"> 
 
 - All numerical variables have significant high outliers
 - **`land_area`** and **`neighbors_land_area`** have the most significant outliers amount
@@ -120,7 +121,7 @@ In process...
 
 ## Multivariate Analysis
 
-![features_relations](https://user-images.githubusercontent.com/81817799/115721157-28adef00-a354-11eb-9a67-2795f4ccc302.png)
+<img src= "storytelling/features_relations.png"> 
 
 **For Southeast region:**
 - **`price`** feature has a strong positive correlation with the **`living_area`** feature
