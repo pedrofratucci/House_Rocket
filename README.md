@@ -101,7 +101,7 @@ But, we won't go back to check these features outliers, because they won't affec
 
 **FALSE**
 
-<img src= "images/H1.png> 
+<img src= "storytelling/H1.png> 
 
 - Southeast region don't have the average house's price minimum increase of 10% for each living condition levels upgrade. It can be seen when upgrading the living condition from level 3 to level 4, the house prices decreases. But, it has a significant 55,80% average houses price increase by upgrade the living condition level 2 to level 3.
 - North region don't have the average house's price minimum increase of 10% for each living condition levels upgrade. Neither a significant average houses price increase when upgrading the living condition level.
@@ -113,7 +113,7 @@ But, we won't go back to check these features outliers, because they won't affec
 
 **TRUE**
 
-<img src= "images/H2.png"> 
+<img src= "storytelling/H2.png"> 
 
 - Southeast region do have the average house's price minimum increase of 10% for each construction design level upgrade. Also, it is the only region with low quality, when it comes about houses construction design. This because, proprably, its the poorest city's region.
 - North region do have the average house's price minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 115,92% raise
@@ -125,7 +125,7 @@ But, we won't go back to check these features outliers, because they won't affec
 
 **TRUE**
 
-<img src= "images/H3.png"> 
+<img src= "storytelling/H3.png"> 
 
 All 3 regions have the approximately the same pattern when we talk about houses sale. Selling more houses during the spring, followed by summer, fall and winter.
 
@@ -133,7 +133,7 @@ All 3 regions have the approximately the same pattern when we talk about houses 
 
 **FALSE**
 
-<img src= "images/H4.png"> 
+<img src= "storytelling/H4.png"> 
 
 Both regions have the approximately the same pattern when we talk about houses sale, which is almost the same of the other 3 regions. Selling more houses during the spring, followed by summer, fall and winter.
 
@@ -141,7 +141,7 @@ Both regions have the approximately the same pattern when we talk about houses s
 
 **FALSE**
 
-<img src= "images/H5.png"> 
+<img src= "storytelling/H5.png"> 
 
 - Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
 - Southeast region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs
@@ -155,7 +155,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 **FALSE**
 
-<img src= "images/H6.png"> 
+<img src= "storytelling/H6.png"> 
 
 - Southeast region don't have the average house's price minimium increase of 10% between the years. Also, the average houses price sold decreases between 2014 and 2015
 - North region do presents an average house's price minium increase between the years. The increase was 2,99%, nothing close to 10%
@@ -167,7 +167,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 **FALSE**
 
-<img src= "images/H7.png"> 
+<img src= "storytelling/H7.png"> 
 
 - Southeast region do have the average house's price minimum increase of 20% when renovating its amount of floors. With a significant average house's price increase of 44,34% when upgrading from 1 to 2 floors
 - North region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences
@@ -179,7 +179,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 **TRUE**
 
-<img src= "images/H8.png"> 
+<img src= "storytelling/H8.png"> 
 
 For all city's regions, its clearly that not always a living area size increase will increase the average house's prices, because of other variables influences. But, analyzing with a macro view, its visible that the living area size increase will likely increase the house's price.
 
@@ -187,7 +187,7 @@ For all city's regions, its clearly that not always a living area size increase 
 
 **FALSE**
 
-<img src= "images/H9.png"> 
+<img src= "storytelling/H9.png"> 
 
 For all city's regions, there is no visible pattern of house's prices increase or decrease when increasing the living area / land area proportion.
 
@@ -195,7 +195,7 @@ For all city's regions, there is no visible pattern of house's prices increase o
 
 **FALSE**
 
-<img src= "images/H10.png"> 
+<img src= "storytelling/H10.png"> 
 
 - There is no houses with water view in Downtown region
 - Southeast region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is no houses with living condition level less than 3 in Southeast region
@@ -207,7 +207,7 @@ For all city's regions, there is no visible pattern of house's prices increase o
 
 **TRUE**
 
-<img src= "images/H11.png"> 
+<img src= "storytelling/H11.png"> 
 
 For all city's regions, there is a pattern that by increasing the bedrooms quantity its most likely that the house's price will increase too.
 
@@ -221,7 +221,7 @@ For all city's regions, there is a pattern that by increasing the bedrooms quant
 
 **TRUE**
 
-<img src= "images/H12.png"> 
+<img src= "storytelling/H12.png"> 
 
 For all city's regions, there is a pattern that by increasing the bathrooms quantity its most likely that the house's price will increase too.
 
