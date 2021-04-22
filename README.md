@@ -350,9 +350,9 @@ Because of the lack of information, I will assume some premisses for each scenar
 <br>
 **Expected ROI: 0.92%**
 
-# Insights Deploy 
+# Deploy 
 
-In process...
+https://house-rocket-ph.herokuapp.com/
 
 # Further Improvements
 
