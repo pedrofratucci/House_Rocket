@@ -99,7 +99,7 @@ But, we won't go back to check these features outliers, because they won't affec
 - Central region don't have the average house's price minimum increase of 10% for each living condition levels upgrade. It can be seen when upgrading the living condition from level 1 to level 2, the house prices decreases. But, it has a significant 75,53% average houses price increase by upgrade the living condition level 2 to level 3.
 - Downtown region have the average house's price minimum increase of 10% for each living condition levels upgrade. But, the houses prices increases when upgrading the living condition level are not significant, something like 11% for both levels. Also, it can be seen that the downtown region doesn't have living condition levels 1 and 2.
 
-### Hypothesis 2:
+### Hypothesis 2: For all city regions, their house's average price has a minimum increase of 10% by increasing the house's Construction Design level
 
 **TRUE**
 
@@ -111,7 +111,7 @@ But, we won't go back to check these features outliers, because they won't affec
 - Central region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 82,69% raise
 - Downtown region do have average house's price the minimum increase of 10% for each construction design level upgrade. It only has average and high quality levels. The average house's price difference when upgrading from level 2 to 3 is 73,52% raise
 - 
-### Hypothesis 3:
+### Hypothesis 3: For North, downtown and west regions, their houses are more likely to be sold during the spring than any other season
 
 **TRUE**
 
@@ -119,7 +119,7 @@ But, we won't go back to check these features outliers, because they won't affec
 
 All 3 regions have the approximately the same pattern when we talk about houses sale. Selling more houses during the spring, followed by summer, fall and winter.
 
-### Hypothesis 4:
+### Hypothesis 4: For Central and Southeast regions, their houses are more likely to be sold during the winter than any other season
 
 **FALSE**
 
@@ -127,7 +127,7 @@ All 3 regions have the approximately the same pattern when we talk about houses 
 
 Both regions have the approximately the same pattern when we talk about houses sale, which is almost the same of the other 3 regions. Selling more houses during the spring, followed by summer, fall and winter.
 
-### Hypothesis 5:
+### Hypothesis 5: For all city regions, houses prices growth month over month is at a 3% minimum
 
 **FALSE**
 
@@ -141,7 +141,7 @@ Both regions have the approximately the same pattern when we talk about houses s
 
 But, when analysing all city regions, its clearly visible that, when talking about average house's prices sold and not the amount of houses sold, April is the month that sells the expensive houses
 
-### Hypothesis 6:
+### Hypothesis 6: For all city regions, houses prices growth year over year is at a 10% minimum
 
 **FALSE**
 
@@ -153,7 +153,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 - Central region do presents an average house's price minium increase between the years. The increase was 2,77%, nothing close to 10%
 - Downtown region do presents an average house's price minium increase between the years. The increase was 2,00%, nothing close to 10%
 
-### Hypothesis 7:
+### Hypothesis 7: For all city regions, their houses floor's number growth increases the house's price at a 20% minimum
 
 **FALSE**
 
@@ -165,7 +165,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 - Central region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences
 - Downtown region don't have the average house's price minimum increase of 20% when renovating its amount of floors. Also, the average house's prices decreases when upgrading from 2 to 3 floors, probably because of other features influences. But, it has a significant average house's price increase of 25,32% when upgrading from 1 to 2 floors
 
-### Hypothesis 8:
+### Hypothesis 8: For all city regions, the Living Area size growth is more likely to increase the house's prices
 
 **TRUE**
 
@@ -173,7 +173,7 @@ But, when analysing all city regions, its clearly visible that, when talking abo
 
 For all city's regions, its clearly that not always a living area size increase will increase the average house's prices, because of other variables influences. But, analyzing with a macro view, its visible that the living area size increase will likely increase the house's price.
 
-### Hypothesis 9:
+### Hypothesis 9: For all city regions, the (Living Area / Land Space) proportion growth is more likely to increase the house's prices
 
 **FALSE**
 
@@ -181,7 +181,7 @@ For all city's regions, its clearly that not always a living area size increase 
 
 For all city's regions, there is no visible pattern of house's prices increase or decrease when increasing the living area / land area proportion.
 
-### Hypothesis 10:
+### Hypothesis 10: Houses with water view has a average price growth of 10% by increasing the house's Living Condition
 
 **FALSE**
 
@@ -193,7 +193,7 @@ For all city's regions, there is no visible pattern of house's prices increase o
 - West region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. Also, there is a house's price decrease pattern after a living condition level 3
 - Central region don't have the average water view house's price minimum increase of 10% when upgrading the living condition levels. But its important to notice that there is a significant average house's price increase of 47,82% when upgrading it from living condition level 3 to 4
 
-### Hypothesis 11:
+### Hypothesis 11: For all city regions, by increasing the bedrooms quantity its most likely to increases the house prices
 
 **TRUE**
 
@@ -207,7 +207,7 @@ For all city's regions, there is a pattern that by increasing the bedrooms quant
 - Central region respects this pattern in a range between 1 and 5 bedrooms
 - Downtown region respects this pattern in a range between 1 and 5 bedrooms
 
-### Hypothesis 12:
+### Hypothesis 12: For all city regions, by increasing the bathrooms quantity its most likely to increases the house prices
 
 **TRUE**
 
