@@ -101,7 +101,7 @@ But, we won't go back to check these features outliers, because they won't affec
 
 **FALSE**
 
-<img src= "storytelling/H1.png> 
+<img src= "storytelling/H1.png"> 
 
 - Southeast region don't have the average house's price minimum increase of 10% for each living condition levels upgrade. It can be seen when upgrading the living condition from level 3 to level 4, the house prices decreases. But, it has a significant 55,80% average houses price increase by upgrade the living condition level 2 to level 3.
 - North region don't have the average house's price minimum increase of 10% for each living condition levels upgrade. Neither a significant average houses price increase when upgrading the living condition level.
