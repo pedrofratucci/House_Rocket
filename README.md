@@ -2,7 +2,7 @@
 ![Main figure](https://image.flaticon.com/icons/png/512/2400/2400362.png)
 
 
-# Business Problem
+# Business Problems
 
 House Rocket is a digital platform whose business model is the purchase and sale of properties using technology.
 
