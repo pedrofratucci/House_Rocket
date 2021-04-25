@@ -149,7 +149,7 @@ Both regions have the approximately the same pattern when we talk about houses s
 - Central region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
 - Downtown region don't have the average house's price minimum increase of 3% between each month. The house's price variates between the months, with ups and downs.
 
-But, when analysing all city regions, its clearly visible that, when talking about average house's prices sold and not the amount of houses sold, April is the month that sells the expensive houses
+But, when analysing all city regions, its clearly visible that, when talking about average house's prices sold and not the amount of houses sold, April is the month that sells the expensive houses.
 
 ### Hypothesis 6: For all city regions, houses prices growth year over year is at a 10% minimum
 
