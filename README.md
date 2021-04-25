@@ -330,7 +330,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 **Expected profit: $ 16,831,921.21**
 <br>
-**Expected ROI: 0.60%**
+**Expected ROI: 60%**
 
 ## Worst Scenario
 
@@ -339,7 +339,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 **Expected profit: $ 7,846,357.17**
 <br>
-**Expected ROI: 0.28%**
+**Expected ROI: 28%**
 
 ## Best Scenario
 
@@ -348,7 +348,7 @@ Because of the lack of information, I will assume some premisses for each scenar
 
 **Expected profit: $ 25,817,485.25**
 <br>
-**Expected ROI: 0.92%**
+**Expected ROI: 92%**
 
 # Deploy 
 
