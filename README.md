@@ -71,27 +71,27 @@ By using the latitudes and longitudes available in the dataset we could split th
 
 <img src= "storytelling/cat_features_distribution.png"> 
 
-- The bedrooms quantity is concentrated between 1 and 6. Which the most common is houses with 3 bedrooms, followed by 4 and 2 
-- Talking about bathrooms, the most common is houses with 2.5 bathrooms, probably 2 bathrooms and a toilet (0.5)
-- Talking about floors, the most common is houses with only 1 floor, followed by 2 and 3
-- When it comes about water view, only a few percent of the houses have it
-- When it comes about view level, almost all houses have a poor (0) view level
-- When it comes about living condition, we can say that people in Seattle live quite good. With almost all houses having a level 3 or more living condition and only a few percent of the houses being a bad place to live in
-- Talking about the construction design, almost all houses are labeled as having a average quality
-- Talking about having a basement or not, its impressive that almost 40% of the houses have it
-- When it comes about the house's year built, there is not a perceptive pattern, with some ups and downs between this period
-- When it comes about if the house had a renovation, only a few did it
-- Talking about the house's sales distribution between months, is clearly visible that between April and July is the period that sells more houses during the year
-- When it comes about the house's sales distribution between years, even with only 2 years and a 12 months range, its impressive that from January-2015 until April-2015 there is almost the half of the houses sold compared to the hole 2014 year
-- Talking about the house's sales distribution between the weather seasons, is clearly visible that the season that sells more houses is Spring, followed by summer
-- When it comes about the house distribution between the city's region, more than a half of the houses as located in Southeast and North regions
+- The bedrooms quantity is concentrated between 1 and 6. Which the most common is houses with 3 bedrooms, followed by 4 and 2. 
+- Talking about bathrooms, the most common is houses with 2.5 bathrooms, probably 2 bathrooms and a toilet (0.5).
+- Talking about floors, the most common is houses with only 1 floor, followed by 2 and 3.
+- When it comes about water view, only a few percent of the houses have it.
+- When it comes about view level, almost all houses have a poor (0) view level.
+- When it comes about living condition, we can say that people in Seattle live quite good. With almost all houses having a level 3 or more living condition and only a few percent of the houses being a bad place to live in.
+- Talking about the construction design, almost all houses are labeled as having a average quality.
+- Talking about having a basement or not, its impressive that almost 40% of the houses have it.
+- When it comes about the house's year built, there is not a perceptive pattern, with some ups and downs between this period.
+- When it comes about if the house had a renovation, only a few did it.
+- Talking about the house's sales distribution between months, is clearly visible that between April and July is the period that sells more houses during the year.
+- When it comes about the house's sales distribution between years, even with only 2 years and a 12 months range, its impressive that from January-2015 until April-2015 there is almost the half of the houses sold compared to the hole 2014 year.
+- Talking about the house's sales distribution between the weather seasons, is clearly visible that the season that sells more houses is Spring, followed by summer.
+- When it comes about the house distribution between the city's region, more than a half of the houses as located in Southeast and North regions.
 
 ### Numerical Features Distribution Analysis
 
 <img src= "storytelling/num_features_distribution.png"> 
 
-- All numerical variables have significant high outliers
-- **`land_area`** and **`neighbors_land_area`** have the most significant outliers amount
+- All numerical variables have significant high outliers.
+- **`land_area`** and **`neighbors_land_area`** have the most significant outliers amount.
 
 But, we won't go back to check these features outliers, because they won't affect our hypotheses analysis.
 
@@ -191,7 +191,7 @@ For all city's regions, its clearly that not always a living area size increase 
 
 For all city's regions, there is no visible pattern of house's prices increase or decrease when increasing the living area / land area proportion.
 
-### Hypothesis 10: Houses with water view has a average price growth of 10% by increasing the house's Living Condition
+### Hypothesis 10: Houses with water view has an average price growth of 10% by increasing the house's Living Condition
 
 **FALSE**
 
@@ -230,37 +230,37 @@ For all city's regions, there is a pattern that by increasing the bathrooms quan
 <img src= "storytelling/features_relations.png"> 
 
 **For Southeast region:**
-- **`price`** feature has a strong positive correlation with the **`living_area`** feature
-- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`** and **`construction_design_num`** features
-- **`living_condition`** feature has a **weird** negative correlation with all others features
+- **`price`** feature has a strong positive correlation with the **`living_area`** feature.
+- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`** and **`construction_design_num`** features.
+- **`living_condition`** feature has a **weird** negative correlation with all others features.
 <br>
 
 **For North region:**
-- **`price`** feature has a strong positive correlation with the **`living_area`** feature
-- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`** and **`construction_design_num`** features
-- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`**, **`living_area`** and **`floors`** features
-- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`price`** features
+- **`price`** feature has a strong positive correlation with the **`living_area`** feature.
+- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`** and **`construction_design_num`** features.
+- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`**, **`living_area`** and **`floors`** features.
+- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`price`** features.
 <br>
 
 **For West region:**
-- **`price`** feature has a strong positive correlation with the **`living_area`** feature
-- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features
-- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`** and **`floors`** features
-- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`**, **`living_area`** and **`price`** features
+- **`price`** feature has a strong positive correlation with the **`living_area`** feature.
+- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features.
+- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`** and **`floors`** features.
+- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`**, **`living_area`** and **`price`** features.
 <br>
 
 **For Central region:**
-- **`price`** feature has a strong positive correlation with the **`living_area`** feature
-- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features
-- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`**, **`living_area`** and **`floors`** features
-- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`price`** features
+- **`price`** feature has a strong positive correlation with the **`living_area`** feature.
+- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features.
+- **`living_condition`** feature has a **weird** negative correlation with the **`bathrooms`**, **`living_area`** and **`floors`** features.
+- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`price`** features.
 <br>
 
 **For Downtown region:**
-- **`price`** feature has a strong positive correlation with the **`living_area`** feature
-- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features
-- **`living_condition`** feature has a **weird** negative correlation with the **`floors`** feature
-- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`floors`** features
+- **`price`** feature has a strong positive correlation with the **`living_area`** feature.
+- **`price`** feature has a moderate positive correlation with the **`bedrooms`**, **`bathrooms`**, **`floors`**, **`living_condition`** and **`construction_design_num`** features.
+- **`living_condition`** feature has a **weird** negative correlation with the **`floors`** feature.
+- **`living_condition`** feature has a **weird** weak positive correlation with the **`bedrooms`** and **`floors`** features.
 
 
 # Answering the CEO's Questions
@@ -275,7 +275,7 @@ For all city's regions, there is a pattern that by increasing the bathrooms quan
 
 3 - As our third option would be buy houses in Southeast region with a living condition level 2 and do a renovation so its living condition upgrades to level 3. This renovation will probably increase 55,80% the house's prices, as shown in H1. 
 
-- These renovations were considered having the same cost, i.e, it don't depends on the city's region
+- These renovations were considered having the same cost, i.e, it don't depends on the city's region.
 <br>
 
 **Prices that the company should pay:**
@@ -284,7 +284,7 @@ If the company could calculate the renovations cost, and assuming that these ren
 
 If the company could not calculate the renovations cost, the company should buy all houses mentioned previously, but only with prices below averange. I suggest buy houses in those living conditions with prices 20% below average, so we secure our chances of profit.
 
-- These renovations should have a cost lower than the difference between before and after living condition scenarios, so the company profit with it
+- These renovations should have a cost lower than the difference between before and after living condition scenarios, so the company profit with it.
 
 ## Once the house is in the company's possession, what is the best time to sell it and what would be the sale price?
 
@@ -357,9 +357,9 @@ All these analysis, with a dinamic interation, can be found here:
 
 # Further Improvements
 
-- Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others
+- Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others.
 
-- Collect more data related to renovations cost, so I can simulate more precise business scenarios
+- Collect more data related to renovations cost, so I can simulate more precise business scenarios.
 
 # References
 
